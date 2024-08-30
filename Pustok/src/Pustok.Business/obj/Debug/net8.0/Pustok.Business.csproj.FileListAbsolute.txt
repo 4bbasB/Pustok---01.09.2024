@@ -1,0 +1,11 @@
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\bin\Debug\net8.0\Pustok.Business.deps.json
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\bin\Debug\net8.0\Pustok.Business.dll
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\bin\Debug\net8.0\Pustok.Business.pdb
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\obj\Debug\net8.0\Pustok.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\obj\Debug\net8.0\Pustok.Business.AssemblyInfoInputs.cache
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\obj\Debug\net8.0\Pustok.Business.AssemblyInfo.cs
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\obj\Debug\net8.0\Pustok.Business.csproj.CoreCompileInputs.cache
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\obj\Debug\net8.0\Pustok.Business.dll
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\obj\Debug\net8.0\refint\Pustok.Business.dll
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\obj\Debug\net8.0\Pustok.Business.pdb
+C:\Users\abbascb\source\repos\Pustok\src\Pustok.Business\obj\Debug\net8.0\ref\Pustok.Business.dll
